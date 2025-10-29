@@ -1,1 +1,3 @@
-# tugas-srtuktur-data-rahmad-sriyanto-240705008-
+"" Nama: Rahmad Sriyanto ""
+"" NIM: 240705008 ""
+"" Stuktur data ""
