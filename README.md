@@ -1,0 +1,1 @@
+# tugas-srtuktur-data-rahmad-sriyanto-240705008-
